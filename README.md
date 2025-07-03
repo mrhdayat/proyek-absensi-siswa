@@ -2,8 +2,6 @@
 
 A modern and responsive student attendance application built with the latest web technologies. This project aims to provide an easy-to-use and efficient system for managing student attendance at SMKS Muhammadiyah Satui.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 ## ✨ Key Features
 
 *   **User-friendly Interface:** Clean, intuitive, and responsive design.
@@ -105,9 +103,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 3.  **Commit your Changes** (`git commit -m 'feat: Add some AmazingFeature'`)
 4.  **Push to the Branch** (`git push origin feature/AmazingFeature`)
 5.  **Open a Pull Request**
-
----
-
-## 📝 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
